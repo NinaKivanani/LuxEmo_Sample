@@ -119,16 +119,3 @@ Ten native Luxembourgish listeners (ages 20–50, balanced gender, self-reported
 | Sad | ~65% |
 | Angry | ~55% |
 
----
-
-## LuxEmo Corpus Statistics (Table 1 in paper)
-
-| Spk | Gender | Segments | Duration (min) | Neutral | Happy | Sad | Angry |
-|:---:|:------:|:--------:|:--------------:|:-------:|:-----:|:---:|:-----:|
-| 1 | M | 1,240 | 206.7 | 88 | 1,125 | 17 | 10 |
-| 2 | F | 766 | 127.7 | 190 | 476 | 100 | 0 |
-| 3 | F | 3,577 | 596.2 | 1,627 | 1,223 | 702 | 25 |
-| 4 | F | 1,979 | 329.8 | 1,063 | 836 | 77 | 3 |
-| **Total** | **1M, 3F** | **7,562** | **1,260.4** | **2,968** | **3,660** | **896** | **38** |
-
-Corpus-level comparison: EmoDB (de, 0.4h, 10 speakers, 7 emotions, acted, studio) vs. **LuxEmo** (lb+code-switching, **21.0h**, 4 speakers, 4 emotions, **spontaneous**, youth media).
