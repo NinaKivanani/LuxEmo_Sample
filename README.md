@@ -31,24 +31,19 @@ Representative synthesized samples for each system and target emotion. For the s
 ### Neutral — Spk3 (F)
 
 **GradTTS (de)**
-
-https://github.com/NinaKivanani/LuxEmo_Sample/raw/main/Samples/GradTTS/neutral/Spk3_neutral_000.mp4
+<video controls src="https://raw.githubusercontent.com/NinaKivanani/LuxEmo_Sample/main/Samples/GradTTS/neutral/Spk3_neutral_000.mp4"></video>
 
 **XTTS (de)**
-
-https://github.com/NinaKivanani/LuxEmo_Sample/raw/main/Samples/XTTS/neutral/Spk3_neutral_000.mp4
+<video controls src="https://raw.githubusercontent.com/NinaKivanani/LuxEmo_Sample/main/Samples/XTTS/neutral/Spk3_neutral_000.mp4"></video>
 
 **Toucan (lb)**
-
-https://github.com/NinaKivanani/LuxEmo_Sample/raw/main/Samples/Toucan/neutral/Spk3_neutral_000.mp4
+<video controls src="https://raw.githubusercontent.com/NinaKivanani/LuxEmo_Sample/main/Samples/Toucan/neutral/Spk3_neutral_000.mp4"></video>
 
 **Qwen3\_FT (lb)**
-
-https://github.com/NinaKivanani/LuxEmo_Sample/raw/main/Samples/Qwen3_FT/neutral/Spk3_neutral_000.mp4
+<video controls src="https://raw.githubusercontent.com/NinaKivanani/LuxEmo_Sample/main/Samples/Qwen3_FT/neutral/Spk3_neutral_000.mp4"></video>
 
 **kNN TTS (lb)**
-
-https://github.com/NinaKivanani/LuxEmo_Sample/raw/main/Samples/kNN_TTS/neutral/Spk3_neutral_000.mp4
+<video controls src="https://raw.githubusercontent.com/NinaKivanani/LuxEmo_Sample/main/Samples/kNN_TTS/neutral/Spk3_neutral_000.mp4"></video>
 
 <details><summary>All speakers — Neutral (download wav)</summary>
 
@@ -66,24 +61,19 @@ https://github.com/NinaKivanani/LuxEmo_Sample/raw/main/Samples/kNN_TTS/neutral/S
 ### Happy — Spk3 (F)
 
 **GradTTS (de)**
-
-https://github.com/NinaKivanani/LuxEmo_Sample/raw/main/Samples/GradTTS/happy/Spk3_happy_000.mp4
+<video controls src="https://raw.githubusercontent.com/NinaKivanani/LuxEmo_Sample/main/Samples/GradTTS/happy/Spk3_happy_000.mp4"></video>
 
 **XTTS (de)**
-
-https://github.com/NinaKivanani/LuxEmo_Sample/raw/main/Samples/XTTS/happy/Spk3_happy_000.mp4
+<video controls src="https://raw.githubusercontent.com/NinaKivanani/LuxEmo_Sample/main/Samples/XTTS/happy/Spk3_happy_000.mp4"></video>
 
 **Toucan (lb)**
-
-https://github.com/NinaKivanani/LuxEmo_Sample/raw/main/Samples/Toucan/happy/Spk3_happy_000.mp4
+<video controls src="https://raw.githubusercontent.com/NinaKivanani/LuxEmo_Sample/main/Samples/Toucan/happy/Spk3_happy_000.mp4"></video>
 
 **Qwen3\_FT (lb)**
-
-https://github.com/NinaKivanani/LuxEmo_Sample/raw/main/Samples/Qwen3_FT/happy/Spk3_happy_000.mp4
+<video controls src="https://raw.githubusercontent.com/NinaKivanani/LuxEmo_Sample/main/Samples/Qwen3_FT/happy/Spk3_happy_000.mp4"></video>
 
 **kNN TTS (lb)**
-
-https://github.com/NinaKivanani/LuxEmo_Sample/raw/main/Samples/kNN_TTS/happy/Spk3_happy_000.mp4
+<video controls src="https://raw.githubusercontent.com/NinaKivanani/LuxEmo_Sample/main/Samples/kNN_TTS/happy/Spk3_happy_000.mp4"></video>
 
 <details><summary>All speakers — Happy (download wav)</summary>
 
@@ -101,22 +91,18 @@ https://github.com/NinaKivanani/LuxEmo_Sample/raw/main/Samples/kNN_TTS/happy/Spk
 ### Sad — Spk3 (F)
 
 **GradTTS (de)**
-
-https://github.com/NinaKivanani/LuxEmo_Sample/raw/main/Samples/GradTTS/sad/Spk3_sad_000.mp4
+<video controls src="https://raw.githubusercontent.com/NinaKivanani/LuxEmo_Sample/main/Samples/GradTTS/sad/Spk3_sad_000.mp4"></video>
 
 **XTTS (de)**
-
-https://github.com/NinaKivanani/LuxEmo_Sample/raw/main/Samples/XTTS/sad/Spk3_sad_000.mp4
+<video controls src="https://raw.githubusercontent.com/NinaKivanani/LuxEmo_Sample/main/Samples/XTTS/sad/Spk3_sad_000.mp4"></video>
 
 **Toucan (lb)**
-
-https://github.com/NinaKivanani/LuxEmo_Sample/raw/main/Samples/Toucan/sad/Spk3_sad_000.mp4
+<video controls src="https://raw.githubusercontent.com/NinaKivanani/LuxEmo_Sample/main/Samples/Toucan/sad/Spk3_sad_000.mp4"></video>
 
 **Qwen3\_FT (lb)** — not available (fine-tuned for neutral and happy only)
 
 **kNN TTS (lb)**
-
-https://github.com/NinaKivanani/LuxEmo_Sample/raw/main/Samples/kNN_TTS/sad/Spk3_sad_000.mp4
+<video controls src="https://raw.githubusercontent.com/NinaKivanani/LuxEmo_Sample/main/Samples/kNN_TTS/sad/Spk3_sad_000.mp4"></video>
 
 <details><summary>All speakers — Sad (download wav)</summary>
 
@@ -136,22 +122,18 @@ https://github.com/NinaKivanani/LuxEmo_Sample/raw/main/Samples/kNN_TTS/sad/Spk3_
 Anger is the rarest emotion in LuxEmo (0.5% of segments, 38 total).
 
 **GradTTS (de)**
-
-https://github.com/NinaKivanani/LuxEmo_Sample/raw/main/Samples/GradTTS/angry/Spk3_angry_000.mp4
+<video controls src="https://raw.githubusercontent.com/NinaKivanani/LuxEmo_Sample/main/Samples/GradTTS/angry/Spk3_angry_000.mp4"></video>
 
 **XTTS (de)**
-
-https://github.com/NinaKivanani/LuxEmo_Sample/raw/main/Samples/XTTS/angry/Spk3_angry_000.mp4
+<video controls src="https://raw.githubusercontent.com/NinaKivanani/LuxEmo_Sample/main/Samples/XTTS/angry/Spk3_angry_000.mp4"></video>
 
 **Toucan (lb)**
-
-https://github.com/NinaKivanani/LuxEmo_Sample/raw/main/Samples/Toucan/angry/Spk3_angry_000.mp4
+<video controls src="https://raw.githubusercontent.com/NinaKivanani/LuxEmo_Sample/main/Samples/Toucan/angry/Spk3_angry_000.mp4"></video>
 
 **Qwen3\_FT (lb)** — not available
 
 **kNN TTS (lb)**
-
-https://github.com/NinaKivanani/LuxEmo_Sample/raw/main/Samples/kNN_TTS/angry/Spk3_angry_000.mp4
+<video controls src="https://raw.githubusercontent.com/NinaKivanani/LuxEmo_Sample/main/Samples/kNN_TTS/angry/Spk3_angry_000.mp4"></video>
 
 <details><summary>All speakers — Angry (download wav)</summary>
 
