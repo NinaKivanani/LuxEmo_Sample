@@ -113,8 +113,3 @@ Inter-rater agreement: naturalness alpha = 0.60, emotion match alpha = 0.56, int
 | 4 | F | 1,979 | 329.8 | 1,063 | 836 | 77 | 3 |
 | **All** | **1M,3F** | **7,562** | **1,260.4** | **2,968** | **3,660** | **896** | **38** |
 
----
-
-## License
-
-Synthesized audio samples only. The LuxEmo corpus is constructed from RTL broadcasts and cannot be publicly redistributed. All data were collected with prior speaker consent and in compliance with EU privacy regulations.
