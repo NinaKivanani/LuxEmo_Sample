@@ -64,6 +64,4 @@ Anger is the rarest emotion in LuxEmo (0.5% of segments, 38 total). Samples from
 | Spk2 (F) | [listen](Samples/GradTTS/angry/Spk2_angry_000.wav) | [listen](Samples/XTTS/angry/Spk2_angry_000.wav) | [listen](Samples/Toucan/angry/Spk2_angry_000.wav) | — | [listen](Samples/kNN_TTS/angry/Spk2_angry_000.wav) |
 | Spk3 (F) | [listen](Samples/GradTTS/angry/Spk3_angry_000.wav) | [listen](Samples/XTTS/angry/Spk3_angry_000.wav) | [listen](Samples/Toucan/angry/Spk3_angry_000.wav) | — | [listen](Samples/kNN_TTS/angry/Spk3_angry_000.wav) |
 
-Qwen3\_FT was fine-tuned with prompt-based emotion control for neutral and happy conditions; sad and angry synthesis was not available for this model.
-
 
