@@ -119,14 +119,6 @@ Ten native Luxembourgish listeners (ages 20–50, balanced gender, self-reported
 | Sad | ~65% |
 | Angry | ~55% |
 
-### Inter-rater agreement (Krippendorff's α)
-
-| Dimension | α |
-|:----------|:-:|
-| Naturalness | 0.60 |
-| Emotion match | 0.56 |
-| Intensity | 0.48 |
-
 ---
 
 ## LuxEmo Corpus Statistics (Table 1 in paper)
