@@ -10,9 +10,7 @@
 
 LuxEmo is a spontaneous emotional speech corpus and benchmark for Luxembourgish text-to-speech (TTS), built from RTL Youth broadcasts. It comprises **21.0 hours** of wideband speech and **7,562 ten-second segments** from four speakers, annotated for language, speaker identity, and four emotion categories (neutral, happy, sad, angry) in a heavily code-switching setting.
 
-This page provides representative audio samples from the five TTS systems evaluated in the paper, organized by target emotion. Listeners can compare models side by side.
-
-**For the full interactive demo with embedded audio players, visit the [GitHub Pages demo](https://ninakivanani.github.io/LuxEmo_Sample/).**
+This page provides representative audio samples from the five TTS systems evaluated in the paper, organized by target emotion. Listeners can compare models side by side. Browse the `Samples/` folder to download and listen to individual WAV files.
 
 ---
 
@@ -123,9 +121,9 @@ The subjective evaluation used a stratified listening test with ten native Luxem
 
 ## How to Listen and Evaluate
 
-1. **Visit the [demo page](https://ninakivanani.github.io/LuxEmo_Sample/)** for an interactive listening experience with embedded audio players.
-2. Or browse the `Samples/` folder directly and download individual WAV files.
-3. For each sample, consider the evaluation questions listed above.
+1. Browse the `Samples/` folder and download individual WAV files.
+2. For each sample, consider the evaluation questions listed above.
+3. Compare outputs across models for the same emotion and speaker.
 
 ---
 
