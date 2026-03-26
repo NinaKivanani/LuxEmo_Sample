@@ -22,13 +22,35 @@ GradTTS and XTTS use German as a proxy language (de); Toucan uses a multilingual
 
 ## Audio Samples
 
-Representative synthesized samples for each system and target emotion. Samples are from the four LuxEmo speakers (Spk1: M, Spk2–4: F). For the subjective evaluation in the paper, listeners assessed each sample on three dimensions:
+Representative synthesized samples for each system and target emotion. For the subjective evaluation, listeners assessed each sample on three dimensions:
 
 1. **Perceived emotion** — Neutral / Happy / Sad / Angry / Other
 2. **Emotion intensity** — 1 (none) to 5 (very strong)
 3. **Naturalness & appropriateness** — 1 (poor) to 5 (excellent)
 
-### Neutral
+### Neutral — Spk3 (F)
+
+**GradTTS (de)**
+
+https://github.com/NinaKivanani/LuxEmo_Sample/raw/main/Samples/GradTTS/neutral/Spk3_neutral_000.mp4
+
+**XTTS (de)**
+
+https://github.com/NinaKivanani/LuxEmo_Sample/raw/main/Samples/XTTS/neutral/Spk3_neutral_000.mp4
+
+**Toucan (lb)**
+
+https://github.com/NinaKivanani/LuxEmo_Sample/raw/main/Samples/Toucan/neutral/Spk3_neutral_000.mp4
+
+**Qwen3\_FT (lb)**
+
+https://github.com/NinaKivanani/LuxEmo_Sample/raw/main/Samples/Qwen3_FT/neutral/Spk3_neutral_000.mp4
+
+**kNN TTS (lb)**
+
+https://github.com/NinaKivanani/LuxEmo_Sample/raw/main/Samples/kNN_TTS/neutral/Spk3_neutral_000.mp4
+
+<details><summary>All speakers — Neutral (download wav)</summary>
 
 | | GradTTS (de) | XTTS (de) | Toucan (lb) | Qwen3\_FT (lb) | kNN TTS (lb) |
 |:---|:---:|:---:|:---:|:---:|:---:|
@@ -37,7 +59,33 @@ Representative synthesized samples for each system and target emotion. Samples a
 | Spk3 (F) | [wav](Samples/GradTTS/neutral/Spk3_neutral_000.wav) | [wav](Samples/XTTS/neutral/Spk3_neutral_000.wav) | [wav](Samples/Toucan/neutral/Spk3_neutral_000.wav) | [wav](Samples/Qwen3_FT/neutral/Spk3_neutral_000.wav) | [wav](Samples/kNN_TTS/neutral/Spk3_neutral_000.wav) |
 | Spk4 (F) | [wav](Samples/GradTTS/neutral/Spk4_neutral_000.wav) | [wav](Samples/XTTS/neutral/Spk4_neutral_000.wav) | [wav](Samples/Toucan/neutral/Spk4_neutral_000.wav) | [wav](Samples/Qwen3_FT/neutral/Spk4_neutral_000.wav) | [wav](Samples/kNN_TTS/neutral/Spk4_neutral_000.wav) |
 
-### Happy
+</details>
+
+---
+
+### Happy — Spk3 (F)
+
+**GradTTS (de)**
+
+https://github.com/NinaKivanani/LuxEmo_Sample/raw/main/Samples/GradTTS/happy/Spk3_happy_000.mp4
+
+**XTTS (de)**
+
+https://github.com/NinaKivanani/LuxEmo_Sample/raw/main/Samples/XTTS/happy/Spk3_happy_000.mp4
+
+**Toucan (lb)**
+
+https://github.com/NinaKivanani/LuxEmo_Sample/raw/main/Samples/Toucan/happy/Spk3_happy_000.mp4
+
+**Qwen3\_FT (lb)**
+
+https://github.com/NinaKivanani/LuxEmo_Sample/raw/main/Samples/Qwen3_FT/happy/Spk3_happy_000.mp4
+
+**kNN TTS (lb)**
+
+https://github.com/NinaKivanani/LuxEmo_Sample/raw/main/Samples/kNN_TTS/happy/Spk3_happy_000.mp4
+
+<details><summary>All speakers — Happy (download wav)</summary>
 
 | | GradTTS (de) | XTTS (de) | Toucan (lb) | Qwen3\_FT (lb) | kNN TTS (lb) |
 |:---|:---:|:---:|:---:|:---:|:---:|
@@ -46,25 +94,73 @@ Representative synthesized samples for each system and target emotion. Samples a
 | Spk3 (F) | [wav](Samples/GradTTS/happy/Spk3_happy_000.wav) | [wav](Samples/XTTS/happy/Spk3_happy_000.wav) | [wav](Samples/Toucan/happy/Spk3_happy_000.wav) | [wav](Samples/Qwen3_FT/happy/Spk3_happy_000.wav) | [wav](Samples/kNN_TTS/happy/Spk3_happy_000.wav) |
 | Spk4 (F) | [wav](Samples/GradTTS/happy/Spk4_happy_000.wav) | [wav](Samples/XTTS/happy/Spk4_happy_000.wav) | [wav](Samples/Toucan/happy/Spk4_happy_000.wav) | [wav](Samples/Qwen3_FT/happy/Spk4_happy_000.wav) | [wav](Samples/kNN_TTS/happy/Spk4_happy_000.wav) |
 
-### Sad
+</details>
 
-| | GradTTS (de) | XTTS (de) | Toucan (lb) | Qwen3\_FT (lb) | kNN TTS (lb) |
-|:---|:---:|:---:|:---:|:---:|:---:|
-| Spk1 (M) | [wav](Samples/GradTTS/sad/Spk1_sad_000.wav) | [wav](Samples/XTTS/sad/Spk1_sad_000.wav) | [wav](Samples/Toucan/sad/Spk1_sad_000.wav) | — | [wav](Samples/kNN_TTS/sad/Spk1_sad_000.wav) |
-| Spk2 (F) | [wav](Samples/GradTTS/sad/Spk2_sad_000.wav) | [wav](Samples/XTTS/sad/Spk2_sad_000.wav) | [wav](Samples/Toucan/sad/Spk2_sad_000.wav) | — | [wav](Samples/kNN_TTS/sad/Spk2_sad_000.wav) |
-| Spk3 (F) | [wav](Samples/GradTTS/sad/Spk3_sad_000.wav) | [wav](Samples/XTTS/sad/Spk3_sad_000.wav) | [wav](Samples/Toucan/sad/Spk3_sad_000.wav) | — | [wav](Samples/kNN_TTS/sad/Spk3_sad_000.wav) |
-| Spk4 (F) | [wav](Samples/GradTTS/sad/Spk4_sad_000.wav) | [wav](Samples/XTTS/sad/Spk4_sad_000.wav) | [wav](Samples/Toucan/sad/Spk4_sad_000.wav) | — | [wav](Samples/kNN_TTS/sad/Spk4_sad_000.wav) |
+---
 
-### Angry
+### Sad — Spk3 (F)
 
-Anger is the rarest emotion in LuxEmo (0.5% of segments, 38 total). Samples from Spk2 and Spk3.
+**GradTTS (de)**
 
-| | GradTTS (de) | XTTS (de) | Toucan (lb) | Qwen3\_FT (lb) | kNN TTS (lb) |
-|:---|:---:|:---:|:---:|:---:|:---:|
-| Spk2 (F) | [wav](Samples/GradTTS/angry/Spk2_angry_000.wav) | [wav](Samples/XTTS/angry/Spk2_angry_000.wav) | [wav](Samples/Toucan/angry/Spk2_angry_000.wav) | — | [wav](Samples/kNN_TTS/angry/Spk2_angry_000.wav) |
-| Spk3 (F) | [wav](Samples/GradTTS/angry/Spk3_angry_000.wav) | [wav](Samples/XTTS/angry/Spk3_angry_000.wav) | [wav](Samples/Toucan/angry/Spk3_angry_000.wav) | — | [wav](Samples/kNN_TTS/angry/Spk3_angry_000.wav) |
+https://github.com/NinaKivanani/LuxEmo_Sample/raw/main/Samples/GradTTS/sad/Spk3_sad_000.mp4
 
-Qwen3\_FT was fine-tuned with prompt-based emotion control for neutral and happy conditions; sad and angry synthesis was not available for this model.
+**XTTS (de)**
+
+https://github.com/NinaKivanani/LuxEmo_Sample/raw/main/Samples/XTTS/sad/Spk3_sad_000.mp4
+
+**Toucan (lb)**
+
+https://github.com/NinaKivanani/LuxEmo_Sample/raw/main/Samples/Toucan/sad/Spk3_sad_000.mp4
+
+**Qwen3\_FT (lb)** — not available (fine-tuned for neutral and happy only)
+
+**kNN TTS (lb)**
+
+https://github.com/NinaKivanani/LuxEmo_Sample/raw/main/Samples/kNN_TTS/sad/Spk3_sad_000.mp4
+
+<details><summary>All speakers — Sad (download wav)</summary>
+
+| | GradTTS (de) | XTTS (de) | Toucan (lb) | kNN TTS (lb) |
+|:---|:---:|:---:|:---:|:---:|
+| Spk1 (M) | [wav](Samples/GradTTS/sad/Spk1_sad_000.wav) | [wav](Samples/XTTS/sad/Spk1_sad_000.wav) | [wav](Samples/Toucan/sad/Spk1_sad_000.wav) | [wav](Samples/kNN_TTS/sad/Spk1_sad_000.wav) |
+| Spk2 (F) | [wav](Samples/GradTTS/sad/Spk2_sad_000.wav) | [wav](Samples/XTTS/sad/Spk2_sad_000.wav) | [wav](Samples/Toucan/sad/Spk2_sad_000.wav) | [wav](Samples/kNN_TTS/sad/Spk2_sad_000.wav) |
+| Spk3 (F) | [wav](Samples/GradTTS/sad/Spk3_sad_000.wav) | [wav](Samples/XTTS/sad/Spk3_sad_000.wav) | [wav](Samples/Toucan/sad/Spk3_sad_000.wav) | [wav](Samples/kNN_TTS/sad/Spk3_sad_000.wav) |
+| Spk4 (F) | [wav](Samples/GradTTS/sad/Spk4_sad_000.wav) | [wav](Samples/XTTS/sad/Spk4_sad_000.wav) | [wav](Samples/Toucan/sad/Spk4_sad_000.wav) | [wav](Samples/kNN_TTS/sad/Spk4_sad_000.wav) |
+
+</details>
+
+---
+
+### Angry — Spk3 (F)
+
+Anger is the rarest emotion in LuxEmo (0.5% of segments, 38 total).
+
+**GradTTS (de)**
+
+https://github.com/NinaKivanani/LuxEmo_Sample/raw/main/Samples/GradTTS/angry/Spk3_angry_000.mp4
+
+**XTTS (de)**
+
+https://github.com/NinaKivanani/LuxEmo_Sample/raw/main/Samples/XTTS/angry/Spk3_angry_000.mp4
+
+**Toucan (lb)**
+
+https://github.com/NinaKivanani/LuxEmo_Sample/raw/main/Samples/Toucan/angry/Spk3_angry_000.mp4
+
+**Qwen3\_FT (lb)** — not available
+
+**kNN TTS (lb)**
+
+https://github.com/NinaKivanani/LuxEmo_Sample/raw/main/Samples/kNN_TTS/angry/Spk3_angry_000.mp4
+
+<details><summary>All speakers — Angry (download wav)</summary>
+
+| | GradTTS (de) | XTTS (de) | Toucan (lb) | kNN TTS (lb) |
+|:---|:---:|:---:|:---:|:---:|
+| Spk2 (F) | [wav](Samples/GradTTS/angry/Spk2_angry_000.wav) | [wav](Samples/XTTS/angry/Spk2_angry_000.wav) | [wav](Samples/Toucan/angry/Spk2_angry_000.wav) | [wav](Samples/kNN_TTS/angry/Spk2_angry_000.wav) |
+| Spk3 (F) | [wav](Samples/GradTTS/angry/Spk3_angry_000.wav) | [wav](Samples/XTTS/angry/Spk3_angry_000.wav) | [wav](Samples/Toucan/angry/Spk3_angry_000.wav) | [wav](Samples/kNN_TTS/angry/Spk3_angry_000.wav) |
+
+</details>
 
 ---
 
